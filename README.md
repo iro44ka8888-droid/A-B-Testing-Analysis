@@ -1,4 +1,3 @@
-# A-B-Testing-Analysis
 # A/B Testing Analysis
 
 > Statistical analysis of A/B test results using Python — conversion metrics
