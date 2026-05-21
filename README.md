@@ -6,7 +6,7 @@
 > Contributed as **Data Analyst** (SQL, BigQuery, Python, Tableau Public).
 
 [![SQL](https://img.shields.io/badge/SQL-BigQuery-4285F4?logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](YOUR_NOTEBOOK_LINK)
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://colab.research.google.com/drive/1bgEkGuOSo4znFhjnlCaIg6-2939B39QE#scrollTo=RgrAC1M4kfFm)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/iryna.savelieva/viz/ABtest_17532074898820/ABtest?publish=yes)
 [![Google Sheets](https://img.shields.io/badge/Results-Google%20Sheets-34A853?logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1kawk4lMNMtAPBppOVknObBlY0HFqVt618a8DYT_pkk0/edit?gid=570772318#gid=570772318)
 
