@@ -79,4 +79,4 @@ The full analysis is available in Google Colab:
 
 - [Tableau Dashboard](https://public.tableau.com/app/profile/iryna.savelieva/viz/ABtest_17532074898820/ABtest?publish=yes) — interactive A/B test visualization
 - [Calculation Results](https://docs.google.com/spreadsheets/d/1kawk4lMNMtAPBppOVknObBlY0HFqVt618a8DYT_pkk0/edit?gid=570772318#gid=570772318) — Google Sheets
-- [Analysis Notebook](YOUR_NOTEBOOK_LINK) — Google Colab
+- [Analysis Notebook](https://colab.research.google.com/drive/1bgEkGuOSo4znFhjnlCaIg6-2939B39QE#scrollTo=RgrAC1M4kfFm) — Google Colab
